@@ -13,3 +13,14 @@ console.log(minus);
 var sin =   Math.sin(a)
 console.log(sin);
 var cos = Math.cos(a);
+console.log(cos);
+var tan = Math.tan(a);
+console.log(tan);
+var cotan = Math.cos(a)/Math.sin(a);
+console.log(cotan);
+var log = Math.log(a,b);
+console.log(log);
+var exp = Math.exp(a);
+console.log(exp);
+var sqr = Math.sqrt(a);
+console.log(sqr);
